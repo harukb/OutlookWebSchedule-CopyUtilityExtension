@@ -1,0 +1,12 @@
+{
+  "name": "OutlookWebSchedule-Copy Utility Extension",
+  "description": "This Extension makes it easy for you to paste in your email text",
+  "version": "0.1",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["https://outlook.office.com/calendar/view/workweek"],
+      "js": ["jquery-3.6.0.min.js","content_script.js"]
+    }
+  ]
+}
