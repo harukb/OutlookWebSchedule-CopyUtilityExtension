@@ -24,15 +24,16 @@ By outputting selected schedule information to chrome Developper tools (F12) con
 makes it a bit easier to create an appointment list.
 
 # Demo
+
 1. ↓こんな会議情報を
 
 <img src="https://github.com/harukb/OutlookWebSchedule-CopyUtilityExtension/blob/master/images/image1.png" width="320">
 
-1. ↓ここクリックすると
+2. ↓ここクリックすると
 
 <img src="https://github.com/harukb/OutlookWebSchedule-CopyUtilityExtension/blob/master/images/image3.png" width="320">
 
-1. ↓こんな感じでデベロッパーツール(F12クリックすると出てくるやつ)のコンソールに出力します。
+3. ↓こんな感じでデベロッパーツール(F12クリックすると出てくるやつ)のコンソールに出力します。
 
 <img src="https://github.com/harukb/OutlookWebSchedule-CopyUtilityExtension/blob/master/images/image2.png" width="320">
 
