@@ -1,5 +1,5 @@
 # OutlookWebSchedule-CopyUtilityExtension
-Outlookwebでの候補日メール作成をちょっと楽にするツール
+Outlookwebで枠取った後の候補日メール作成をちょっと楽にするツール
 
 こういうヤツ
 > 以下の日程の中で1時間ほどご調整頂けますでしょうか？
@@ -64,7 +64,7 @@ https://www.cnet.com/tech/services-and-software/how-to-install-chrome-extensions
 # Note
 + 出力されないときはページをリロードしてみてください。
 + 利用は自己責任で！
-+ domの要素が違ってたら、セルフサービスでF12で調査して書き換えてください。
++ outlookwebのドメインやdomの要素が違ってたら、セルフサービスでF12で調査してmanifest.jsonやcontent_scirpt.jsを書き換えてください。
 # Author
 harukb(harukb@gmail.com)
 # License
