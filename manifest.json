@@ -5,7 +5,7 @@
   "manifest_version": 3,
   "content_scripts": [
     {
-      "matches": ["https://outlook.office.com/calendar/view/workweek"],
+      "matches": ["https://outlook.office.com/calendar/view/*"],
       "js": ["jquery-3.6.0.min.js","content_script.js"]
     }
   ]
